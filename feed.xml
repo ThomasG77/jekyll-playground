@@ -6,18 +6,17 @@
 </description>
     <link>https://thomasg77.github.io/jekyll-playground/</link>
     <atom:link href="https://thomasg77.github.io/jekyll-playground/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 13:53:21 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 13:53:21 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 13:57:21 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 13:57:21 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to second test rebpoot!</title>
+        <title>Welcome to second test!</title>
         <description>&lt;h1 id=&quot;hello&quot;&gt;Hello&lt;/h1&gt;
 
 &lt;h2 id=&quot;world&quot;&gt;World&lt;/h2&gt;
 
-&lt;p&gt;azerty
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
