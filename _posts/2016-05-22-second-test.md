@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Welcome to second test rebpoot!"
-date:   2016-05-22 18:33:12 +0200
+title: Welcome to second test rebpoot!
+date: '2016-05-22 18:33:12 +0200'
 categories: jekyll qgis
+published: true
 ---
 
 
 # Hello
 
 ## World
+
+
+Mon nouveau site est suuper beau
 
 azerty
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
